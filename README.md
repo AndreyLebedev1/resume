@@ -1,1 +1,2 @@
-# Some information about me, my experience and skills!
+# resume 
+Some information about me, my experience and skills!
